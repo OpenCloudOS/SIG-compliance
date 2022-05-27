@@ -3,27 +3,21 @@
 ## 职责范围 Scope
  OpenCloudOS社区合规兴趣组（合规SIG，SIG-compliance）的职责范围是针对社区合规工作的研究和落实。通过对开源社区最佳实践的广泛研究，合规SIG制定满足社区需要、遵循行业一般规程、符合法律法规要求的行为规则，并通过标准化流程、工具、指引将其融入社区的日常运营中，支持社区的开源合规管理。
 
-## 管理团队 Leadership
 
-### 联席组长 Chairs
-SIG组长负责本兴趣小组的运营和治理。
+## 成员 Member
 * 耿航（腾讯）
 * Elton（Intel）
-
-### 成员 Member
 * john（腾讯） 
 * 辜凌云（北大）
-* 梁尧（志愿者）
-
-### 秘书 Secretary
+* 梁尧（个人）
+* Terry Gao（腾讯）
+* 朱中华（美团）
 * 郁葱葱（腾讯）
 
 ## 联络方式 Contacts
 * 邮件列表
 	 - 小组邮件列表 SIG-compliance@lists.opencloudos.org
-	 - 组长邮件列表 SIG-Chair-compliance@lists.opencloudos.org
-	 - 秘书邮件列表 SIG-Secretary-compliance@lists.opencloudos.org
-
+     
 ## 会议制度 Meetings
 * 双周例会
 * 定期沙龙
